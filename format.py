@@ -2,7 +2,7 @@
 # PAGE 115
 # FORMATTING STRINGS 
 
-# initialize  a variable with a formatted string
+# initialize a variable with a formatted string
 snack = '{} and {}'.format('Burger','Fries')
 
 # display the value to see the text replaced in their listed order
