@@ -1,6 +1,6 @@
 # CHAPTER 9
 # PAGE 117
-# MODIFYING STRINGS 
+# MODIFYING STRINGS  
 
 # start a new prograsm by initializing  a variable with a string of lowercase characters and spaces
 string = 'coding for beginners in easy steps'
