@@ -1,7 +1,7 @@
 # CHAPTER 9
 # PAGE 113
 # MANIPULATING STRINGS 
-
+ 
 # use + to join strings together
 # use * to repeat strings - e.g. - 'Hello' * 2 = 'HelloHello'
 # use [] to select a character at a stated position - e.g. - 'HELLO'[3] = 'L'
