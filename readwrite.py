@@ -1,5 +1,5 @@
 # CHAPTER 9
-# PAGE 120
+# PAGE 120 
 # MANIPULATING CONTENT
 
 # start a new program by initializing a variable with a concantenated string containing newline characters
