@@ -36,3 +36,5 @@ with open('update.txt','r+') as file :
     position = file.seek(0)
     text =file.read()
     print('\nString:',text)
+
+# end of file
